@@ -1,0 +1,6 @@
+[submodule "LudoLocaClient"]
+	path = LudoLocaClient
+	url = https://github.com/LudoLoca/LudoLocaClient.git
+[submodule "LudoLocaApi"]
+	path = LudoLocaApi
+	url = https://github.com/LudoLoca/LudoLocaApi.git
