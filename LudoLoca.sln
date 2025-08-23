@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "LudoLocaApi\API\API.csproj", "{04AA8F46-49C4-9072-0269-9B2C24041BC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{04AA8F46-49C4-9072-0269-9B2C24041BC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "LudoLocaClient\Client\Client.csproj", "{F6994328-17C4-05BD-E0B2-65BD12094907}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{F6994328-17C4-05BD-E0B2-65BD12094907}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

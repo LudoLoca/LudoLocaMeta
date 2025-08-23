@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.slnlaunchuser
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.7z
+*.tar
+*.gz
+*.rar
+
+# Rider
+.idea/
+
+# Build outputs (should not be in meta, but safe to ignore)
+bin/
+obj/
+
+# Ignore user secrets at meta level
+secrets.json
+
+# Ignore local config at meta level
+appsettings.Development.json
+
+# Ignore any temp files
+*.tmp
+*.log
