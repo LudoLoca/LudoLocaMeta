@@ -1,23 +1,23 @@
 # Apresentação
-A LudoLoca é um web app de aluguél de jogos de mesa em que cada usuário pode tanto alugar quanto diponibilizar seus jogos para aluguél.
+A **LudoLoca** é um web app de **aluguel de jogos de mesa**, no qual cada usuário pode tanto alugar quanto disponibilizar seus jogos para aluguel.
 
-O projeto foi concebido no contexto acadêmico como fruto da disciplina PROJETO INTEGRADOR: DESENVOLVIMENTO DE SISTEMAS ORIENTADO A DISPOSITIVOS MÓVEIS E BASEADOS NA WEB, do curso de Anaálise e Desenvolvimento de Sistemas, da faculdade SENAC - EAD.
+O projeto foi concebido no contexto acadêmico como resultado da disciplina **PROJETO INTEGRADOR: DESENVOLVIMENTO DE SISTEMAS ORIENTADO A DISPOSITIVOS MÓVEIS E BASEADOS NA WEB**, do curso de **Análise e Desenvolvimento de Sistemas**, da faculdade **SENAC - EAD**.
 
-# Tecnologias e decisões tecnicas
-Utilizamos o padrão de arquitetura MVC com o back-end e o front-end desenvolvidos em repositórios separados. Optamos pelo uso da linguagem c# e do .Net Framework por serem ferramentas com as quais todos os integrantes do grupo ja tiveram alguma experiência previa.  
+# Tecnologias e decisões técnicas
+Utilizamos o padrão de arquitetura **MVC**, com o back-end e o front-end desenvolvidos em repositórios separados. Optamos pelo uso da linguagem **C#** e do **.NET Framework**, por serem ferramentas com as quais todos os integrantes do grupo já tinham alguma experiência prévia.  
 
-Este repositório, LudoLocaMeta, contém a solution que integra os repositórios do [client](https://github.com/LudoLoca/LudoLocaClient) e da [API](https://github.com/LudoLoca/LudoLocaApi/), bem como os ponteiros para ambos os repositórios. As instruções para configurar rodar a aplicação localmente estão logo abaixo.
+Este repositório, **LudoLocaMeta**, contém a *solution* que integra os repositórios do [Client](https://github.com/LudoLoca/LudoLocaClient) e da [API](https://github.com/LudoLoca/LudoLocaApi/), bem como os ponteiros para ambos os repositórios. As instruções para configurar e rodar a aplicação localmente estão logo abaixo.
 
-O [github da organização LudoLoca](https://github.com/LudoLoca) contém este repositório aqui, guia para dumentação e outras informações. 
+O [GitHub da organização LudoLoca](https://github.com/LudoLoca) contém este repositório, guias de documentação e outras informações.  
 Você pode verificar a concepção do projeto e sua documentação [clicando aqui](https://github.com/filipechgs/LudoLoca).
 
 # Integrantes do grupo
-- 🧩 Ana Cariane De Oliveira Grion
-- 🧩 Bruna Regina Fini
-- 🧩 Filipe Lima Guedes Chagas
-- 🧩 Julio Cesar Souza Da Rocha Filho
-- 🧩 Luisa Mariana Santos E Souza
-- 🧩 Valéria Oliveira Silva
+- 🧩 Ana Cariane de Oliveira Grion  
+- 🧩 Bruna Regina Fini  
+- 🧩 Filipe Lima Guedes Chagas  
+- 🧩 Julio Cesar Souza da Rocha Filho  
+- 🧩 Luisa Mariana Santos e Souza  
+- 🧩 Valéria Oliveira Silva  
 
 # Guia de Configuração e Versionamento - LudoLoca
 
