@@ -1,7 +1,10 @@
 # Apresentação
 A **LudoLoca** é um web app de **aluguel de jogos de mesa**, no qual cada usuário pode tanto alugar quanto disponibilizar seus jogos para aluguel.
 
+
 O projeto foi concebido no contexto acadêmico como resultado da disciplina **PROJETO INTEGRADOR: DESENVOLVIMENTO DE SISTEMAS ORIENTADO A DISPOSITIVOS MÓVEIS E BASEADOS NA WEB**, do curso de **Análise e Desenvolvimento de Sistemas**, da faculdade **SENAC - EAD**.
+
+🎞️ [**Clique aqui e assista o LudoLoca funcionando!**](https://youtu.be/5icjFpFGulQ)
 
 # Tecnologias e decisões técnicas
 Utilizamos o padrão de arquitetura **MVC**, com o back-end e o front-end desenvolvidos em repositórios separados. Optamos pelo uso da linguagem **C#** e do **.NET Framework**, por serem ferramentas com as quais todos os integrantes do grupo já tinham alguma experiência prévia.  
