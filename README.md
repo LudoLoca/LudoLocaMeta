@@ -14,6 +14,11 @@ Este repositório, **LudoLocaMeta**, contém a *solution* que integra os reposit
 O [GitHub da organização LudoLoca](https://github.com/LudoLoca) contém este repositório, guias de documentação e outras informações.  
 Você pode verificar a concepção do projeto e sua documentação [clicando aqui](https://github.com/filipechgs/LudoLoca).
 
+# Links Externos
+- [Diagrama do banco de dados](https://dbdiagram.io/d/LudoLoca-66f1f58ba0828f8aa6cff43a)
+- [Excalidraw](https://excalidraw.com/#room=08d0e5bc962851f2e389,GCihSSq8X9vTyL_om_5d8w) - Protótipo
+
+
 # Integrantes do grupo
 - 🧩 Ana Cariane de Oliveira Grion  
 - 🧩 Bruna Regina Fini  
